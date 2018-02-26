@@ -1,0 +1,19 @@
+{
+  "name": "email-smtp-verificator",
+  "version": "1.0.0",
+  "description": "A tool to verify an email address existence via SMTP",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DyuldinKS/email-smtp-verificator"
+  },
+  "author": "DyuldinKS <dyuldin_kirill@protonmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "smtp",
+    "verify",
+    "verificator",
+    "validate"
+  ]
+}
