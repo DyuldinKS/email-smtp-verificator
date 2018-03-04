@@ -1,6 +1,6 @@
 const Verification = require('./Verification');
 const logger = require('./logger.js');
-logger.enable();
+// logger.enable();
 
 
 const defaultOptions = {
